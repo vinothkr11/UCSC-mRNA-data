@@ -1,0 +1,6 @@
+hub DanRer_hMeDIP_ChIPseq
+shortLabel Berman_hme_model Hub
+longLabel Hub to display Jason/Berman data at UCSC (danRer10 MeDIP and hmeDIP)
+genomesFile genomes.txt
+email vn300909@dal.ca
+
