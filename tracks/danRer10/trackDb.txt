@@ -1,0 +1,27 @@
+track hmedip_C_a_ERs_2
+shortLabel hmedip_C_a_ERs_2
+longLabel Casper_enriched_hmeDIP_2x
+type bigBed
+visibility full
+maxHeightPixels 70:70:32
+configurable on
+autoScale on
+alwaysZero on
+priority 1
+bigDataUrl hmedip_C_a_ERs_2.bed
+color 76,0,153
+#purple
+
+track hmedip_M_a_ERs_2
+shortLabel hmedip_M_a_ERs_2
+longLabel mutant_enriched_hmeDIP_2x
+type bigBed
+visibility full
+maxHeightPixels 70:70:32
+configurable on
+autoScale on
+alwaysZero on
+priority 2
+bigDataUrl hmedip_M_a_ERs_2.bed
+color 0,128,255
+# blue
