@@ -1,7 +1,7 @@
 track hmedip_C_a_ERs_2
 shortLabel hmedip_C_a_ERs_2
 longLabel Casper_enriched_hmeDIP_2x
-type bigBed
+type Bed
 visibility full
 maxHeightPixels 70:70:32
 configurable on
@@ -15,7 +15,7 @@ color 76,0,153
 track hmedip_M_a_ERs_2
 shortLabel hmedip_M_a_ERs_2
 longLabel mutant_enriched_hmeDIP_2x
-type bigBed
+type Bed
 visibility full
 maxHeightPixels 70:70:32
 configurable on
